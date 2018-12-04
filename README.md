@@ -1,2 +1,1 @@
-# kbsi
-KBSI 2018
+# Kelompok Belajar Sistem Informasi
